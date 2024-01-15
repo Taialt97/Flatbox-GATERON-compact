@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,RP2040-Zero,1,RP2040-Zero,
+"H1, H2, H3, H5, H6, H7, H8",MountingHole_2.2mm_M2,7,MountingHole,
+"SW1, SW2, SW3, SW4, SW5, SW6",SW_PUSH_6mm_H5mm,6,SW_Push,
+"SW10, SW11, SW12, SW13, SW14, SW15, SW16, SW17, SW18, SW7, SW8, SW9",KAILHCHOK_V2_GATERON_SW_HS_(KAILH),12,SW_Push,
