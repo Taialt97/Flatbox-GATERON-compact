@@ -1,4 +1,4 @@
-23328618252395976
+23326958354818341
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51533,20 +51533,6 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
-Desktop
-KAILHCHOK_V2_GATERON_SW_HS_(KAILH)
-Kailh "Choc" PG1350 keyswitch with optional socket mount
-kailh,choc
-0
-4
-2
-Desktop
-RP2040-Zero
-
-
-0
-23
-23
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -53703,6 +53689,13 @@ emi filter
 0
 5
 5
+Flatbox-GATERON-compact
+RP2040-Zero
+
+
+0
+23
+23
 Fuse
 Fuse_0402_1005Metric
 Fuse SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
